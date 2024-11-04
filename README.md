@@ -1,2 +1,2 @@
 # nav-bar-react-tailwindcss
-Nav bar utilizando rieact y tailwind
+Nav bar utilizando react y tailwind
